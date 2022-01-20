@@ -1,6 +1,7 @@
 # Custom
 data/
 logs/
+models/
 
 # idea
 .idea/
